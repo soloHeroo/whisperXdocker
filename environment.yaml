@@ -9,7 +9,7 @@ dependencies:
   - torchaudio==2.1.0
   - pytorch-cuda=11.8
   - pip:
-    - git+https://github.com/m-bain/whisperx.git
+    - git+https://github.com/soloHeroo/whisperXdocker.git
     - flask
     - Flask-RESTful
     - Werkzeug
